@@ -8,7 +8,7 @@ a lot as cliche as it is, but it's important t mention that I also really enjoy 
 * ⚛️ react
 * 💻 CSS / HTML / JS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stromschlag6&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stromschlag6&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 
 - 👀 I’m interested in ...
