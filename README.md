@@ -9,6 +9,8 @@ a lot as cliche as it is, but it's important t mention that I also really enjoy 
 * 💻 CSS / HTML / JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stromschlag6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 
 - 👀 I’m interested in ...
