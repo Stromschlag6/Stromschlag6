@@ -47,7 +47,7 @@
 
 ## <p align="center">📫 Contact</p>
 <div align="center">
-    You can reach me via <a href="mailto:marco.auer@example.com">Email</a>.
+    Don't hesitate to reach out to me via <a href="mailto:auer.marcob@gmail.com">Email</a>.
 </div>
 <!---
 - 👀 I’m interested in ...
