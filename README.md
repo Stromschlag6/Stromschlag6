@@ -45,7 +45,9 @@
 <p align="center">Completed Semesters: 4</p>
 
 ## <p align="center">📫 Contact</p>
-<p align="center">[E-Mail](mailto:auer.marcob@gmail.com)</p>
+<div align="center">
+    You can reach me via <a href="mailto:marco.auer@example.com">Email</a>.
+</div>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
