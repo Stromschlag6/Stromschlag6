@@ -5,26 +5,26 @@
 ## <p align="center">Skills</p>
 
 ### <p align="center">Languages and Frameworks I Regularly Use</p>
-<p align="center">⚛️ React</p>
-<p align="center">💻 CSS / HTML / JS</p>
+##### <p align="center">⚛️ React</p>
+##### <p align="center">💻 CSS / HTML / JS</p>
 
 ### <p align="center">Other Languages and Frameworks I Already Used</p>
-<p align="center">🐧 Bash</p>
-<p align="center">☕ Java</p>
-<p align="center">🌿 Spring</p>
+##### <p align="center">🐧 Bash</p>
+##### <p align="center">☕ Java</p>
+##### <p align="center">🌿 Spring</p>
 
 ### <p align="center">Databases I Already Used</p>
-<p align="center">🍃 MongoDB</p>
-<p align="center">🦭 MariaDB</p>
-<p align="center">🐬 MySQL</p>
+##### <p align="center">🍃 MongoDB</p>
+##### <p align="center">🦭 MariaDB</p>
+##### <p align="center">🐬 MySQL</p>
 
 ### <p align="center">Cloud Solutions I Already Used</p>
-<p align="center">☁️🟠 AWS</p>
-<p align="center">☁️🔷 Azure</p>
+##### <p align="center">☁️🟠 AWS</p>
+##### <p align="center">☁️🔷 Azure</p>
 
 ### <p align="center">Other Tools I Already Used</p>
-<p align="center">🐳 Docker / Docker Hub</p>
-<p align="center">📮 Postman</p>
+##### <p align="center">🐳 Docker / Docker Hub</p>
+##### <p align="center">📮 Postman</p>
 
 ## <p align="center">📊 GitHub Stats</p>
 <p align="center">
@@ -37,12 +37,13 @@
 </p>
 
 ## <p align="center">🎓 Education</p>
-
-<p align="center">IMS includes three locations:</p>
-<p align="center">Kantonsschule Büelrain (KBW) for general education (mathematics, languages, economics, etc.)</p>
-<p align="center">Berufsbildungsschule Winterthur (BBW) for informatics education</p>
-<p align="center">Zürcher Lehrbetriebsverband ICT (ZLI ICT) for additional informatics education</p>
-<p align="center">Completed Semesters: 4</p>
+<ul align="center">
+    <li>IMS includes three locations:</li>
+    <li>Kantonsschule Büelrain (KBW) for general education (mathematics, languages, economics, etc.)</li>
+    <li>Berufsbildungsschule Winterthur (BBW) for informatics education</li>
+    <li>Zürcher Lehrbetriebsverband ICT (ZLI ICT) for additional informatics education</li>
+    <li>Completed Semesters: 4</li>
+</ul>
 
 ## <p align="center">📫 Contact</p>
 <div align="center">
