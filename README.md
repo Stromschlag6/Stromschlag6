@@ -1,6 +1,6 @@
 # <p align="center">Hi there👋</p>
 
-<p align="center">I'm Marco Auer from Winterthur, Switzerland. Currently, I'm a student at IMS (Informatikmittelschule) studying at KBW (Kantonsschule Büelrain). My coding knowledge ranges from React to Java, with some experience in Bash and regular use of CSS and HTML. I find it challenging to determine which field I'm truly interested in due to my limited experience; I usually find whatever I learn fascinating. In my free time, I enjoy gaming, but I also love hiking and camping outdoors. I'm a big fan of various sports, especially Formula 1, football, ice hockey, and floorball, which I play and referee at the club UHC Winterthur United.</p>
+<p align="center">I'm Marco Auer from Winterthur, Switzerland. Currently, I'm a student at IMS (Informatikmittelschule) studying at KBW (Kantonsschule Büelrain). My coding knowledge ranges from React to Java, with some experience in Bash and regular use of CSS and HTML. I have a wide range of interests, and it's rare for me to find something uninteresting; I usually find whatever I learn fascinating. In my free time, I love hiking and camping outdoors. I'm a big fan of various sports, especially Formula 1, football, ice hockey, and floorball, which I play and referee at the club UHC Winterthur United.</p>
 
 ## <p align="center">Skills</p>
 
@@ -9,9 +9,11 @@
 ##### <p align="center">💻 CSS / HTML / JS</p>
 
 ### <p align="center">Other Languages and Frameworks I Already Used</p>
-##### <p align="center">🐧 Bash</p>
 ##### <p align="center">☕ Java</p>
 ##### <p align="center">🌿 Spring</p>
+
+### <p align="center">Scriptung Languages I Already Used</p>
+##### <p align="center">🐧 Bash</p>
 
 ### <p align="center">Databases I Already Used</p>
 ##### <p align="center">🍃 MongoDB</p>
