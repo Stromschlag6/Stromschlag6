@@ -4,7 +4,7 @@
 
 ## <p align="center">Skills</p>
 
-### <p align="center">Languages and Frameworks I Regularly Use</p>
+### <p align="center">Languages, Frameworks and libraries I Regularly Use</p>
 ##### <p align="center">⚛️ React</p>
 ##### <p align="center">💻 CSS / HTML / JS</p>
 
